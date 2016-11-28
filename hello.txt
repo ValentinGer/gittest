@@ -1,4 +1,4 @@
-print "Hello!"
-print "Everybody"
-print "Hello!"
-print "Go"
+print "Hello!;"
+print "Everybody;"
+print "Hello!;"
+print "Go;"
